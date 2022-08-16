@@ -2,7 +2,7 @@
   "name": "travel-journal-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kelstev.github.io/travel-journal-react",
+  "homepage": "https://kelstev.github.io/travel-journal-react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
